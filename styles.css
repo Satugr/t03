@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+
+}
+h1 {color: white;
+font-size: 20px;
+}
+p{font-size: 12px;
+    color: green;
+}
+div.div-elementti{
+    border-style:dotted;
+    border-width:2px;
+    width: 100px;
+    height: 100px;
+}
+.custom-list {
+    list-style: lower-alpha;
+}
+.custom-list2 {
+    list-style-type: square;
+}
